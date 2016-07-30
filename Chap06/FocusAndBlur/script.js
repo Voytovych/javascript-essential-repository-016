@@ -1,4 +1,4 @@
-
+ 
 var emailField = document.getElementById("email");
 
 emailField.onfocus = function() {
